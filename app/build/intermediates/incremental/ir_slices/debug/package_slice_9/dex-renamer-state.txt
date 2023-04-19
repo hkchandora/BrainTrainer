@@ -1,4 +1,0 @@
-#Tue May 28 22:36:12 IST 2019
-base.0=C\:\\Users\\Himansh\\AndroidStudioProjects\\BrainTrainer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
-path.0=classes.dex
-renamed.0=classes.dex
